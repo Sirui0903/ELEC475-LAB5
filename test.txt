@@ -1,0 +1,5 @@
+show image:
+python .\step4_show.py -d Y
+
+see distance results:
+python .\step4_show.py -d N
